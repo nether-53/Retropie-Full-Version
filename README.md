@@ -241,4 +241,4 @@ This repository serves as the official landing page for RetroPie. The software i
 **Get the most recent version of RetroPie today!**
 
 ---
-**Last updated:** 2026-09-21 17:27:34 UTC
+**Last updated:** 2026-09-21 21:25:44 UTC
